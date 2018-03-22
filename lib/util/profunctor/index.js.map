@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/util/profunctor/index.js"],"names":["Arrow","Profunctor"],"mappings":";;;;;;;AAEA;;;;AACA;;;;;;QAESA,K;QAAOC,U","file":"index.js","sourcesContent":["//@flow\n\nimport Profunctor from './profunctor'\nimport Arrow from './arrow'\n\nexport { Arrow, Profunctor }\nexport default Profunctor\n"]}

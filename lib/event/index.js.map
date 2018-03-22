@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/event/index.js"],"names":["scopedEmitter"],"mappings":";;;;;;;;;;;0BAESA,a","file":"index.js","sourcesContent":["//@flow\n\nexport { scopedEmitter } from './scoped-emitter'\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/state/index.js"],"names":["rootStream","dispatch","getState"],"mappings":";;;;;;;;;;;mBAESA,U;;;;;;mBAAYC,Q;;;;;;mBAAUC,Q","file":"index.js","sourcesContent":["//@flow\n\nexport { rootStream, dispatch, getState } from './portal'\n"]}

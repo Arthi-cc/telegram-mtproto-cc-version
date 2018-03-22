@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/plugins/index.js"],"names":["MemoryStorage","makePasswordHash","getRandomId"],"mappings":"AAEA,SAASA,aAAT,QAA8B,kBAA9B;AACA,SAASC,gBAAT,EAA2BC,WAA3B,QAA8C,aAA9C","file":"index.js","sourcesContent":["//@flow\n\nexport { MemoryStorage } from './memory-storage'\nexport { makePasswordHash, getRandomId } from './math-help'\n"]}

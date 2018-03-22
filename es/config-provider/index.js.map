@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/config-provider/index.js"],"names":["getConfig","registerInstance","Config"],"mappings":"AAEA,SAASA,SAAT,EAAoBC,gBAApB,QAA4C,YAA5C;;AAEA,OAAOC,MAAP,MAAmB,UAAnB;;AAEA,eAAeA,MAAf","file":"index.js","sourcesContent":["//@flow\n\nexport { getConfig, registerInstance } from './provider'\n\nimport Config from './facade'\n\nexport default Config\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/service/chain/index.js"],"names":[],"mappings":";;;;;;AAEA","file":"index.js","sourcesContent":["//@flow\n\nimport parser from './parser'\n\nexport default parser\n"]}

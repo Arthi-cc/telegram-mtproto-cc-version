@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/config-provider/index.js"],"names":["getConfig","registerInstance"],"mappings":";;;;;;;;;;;;qBAESA,S;;;;;;qBAAWC,gB;;;;AAEpB","file":"index.js","sourcesContent":["//@flow\n\nexport { getConfig, registerInstance } from './provider'\n\nimport Config from './facade'\n\nexport default Config\n"]}
